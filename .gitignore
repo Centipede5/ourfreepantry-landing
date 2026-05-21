@@ -1,0 +1,5 @@
+# Local files
+.DS_Store
+Thumbs.db
+pages-server*.log
+verification-*.png
